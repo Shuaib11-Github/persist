@@ -124,4 +124,4 @@ Make sure you have Docker installed. You can download it from [here](https://www
 
 - **File Not Found (dataset.csv)**: Ensure the `data` directory containing `dataset.csv` is included in the project and copied into the Docker container or accessible from the local environment.
 
-By following these steps, you should be able to successfully set up and run the dashboard. If you encounter any issues, feel free to reach out for assistance.
+By following these steps, you should be able to successfully set up and run the dashboard.
